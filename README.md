@@ -11,4 +11,4 @@ Google Colaboratory Algoritmo Supervisado
 
 Google Colaboratory Algoritmo No Supervisado TensorFlow
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidc-garcia/LOL_Winner_Prediction_IA/blob/main/03-Modelo_No_Supervisado_TensorFlow. 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidc-garcia/LOL_Winner_Prediction_IA/blob/main/03-Modelo_No_Supervisado_TensorFlow.)
